@@ -1,4 +1,4 @@
-# Explaining Transformer Architekture
+# Explaining Transformer Architecture
 
 ## Best Sources:
 
