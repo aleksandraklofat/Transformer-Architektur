@@ -1,3 +1,5 @@
-# Creating Apps with Transformers
+# Explaining Transformer Architekture
+
+## Best Sources:
 
 (work in progress)
