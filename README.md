@@ -29,3 +29,5 @@ Transformer encoder and decoder, body and head are explained (with code).
 Based on Hugging Face, Python and PyTorch.
 Source for code: 
 https://github.com/nlp-with-transformers/notebooks
+
+### Training ChatGPT (Steps)
