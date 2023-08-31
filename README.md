@@ -31,3 +31,4 @@ Source for code:
 https://github.com/nlp-with-transformers/notebooks
 
 ### Training ChatGPT (Steps)
+![Alt text](https://github.com/aleksandraklofat/Transformer-Architektur/blob/main/chatgpt_training1.png)
